@@ -1,4 +1,7 @@
 ### Hi there 👋, I am tharun manikonda
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
+</div>
 
 <!--
 **tharunmanikonda/tharunmanikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
